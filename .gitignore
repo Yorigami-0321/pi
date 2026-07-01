@@ -39,3 +39,10 @@ plans/
 .pi/hf-sessions/
 .pi/hf-sessions-backup/
 collect.sh
+
+
+skills/runtime/
+nul
+.pi/extensions/blender-mcp/
+runtime/
+skills/comfyui-manager/workspace/data/local/*/history/
